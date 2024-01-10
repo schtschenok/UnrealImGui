@@ -1,5 +1,7 @@
 // Distributed under the MIT License (MIT) (see accompanying LICENSE file)
 
+#define IMGUI_DEFINE_MATH_OPERATORS
+
 #include "ImGuiContextManager.h"
 
 #include "ImGuiDelegatesContainer.h"
